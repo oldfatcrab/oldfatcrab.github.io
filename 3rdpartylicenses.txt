@@ -88,10 +88,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-socicon
+typeface-exo
 MIT
 
-typeface-exo
+socicon
 MIT
 
 roboto-fontface
